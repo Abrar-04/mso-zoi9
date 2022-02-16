@@ -1,0 +1,64 @@
+body{
+    background-color:black;color:yellow
+}
+
+p {
+    color:rgb(82, 255, 120);
+}
+
+li {
+    color:rgb(0, 140, 255);line-height:150%
+}
+	
+h3 {
+    width:10%;
+    color:green;
+    font-family:arial;
+    text-align:center;
+    background-color:pink;
+    border-color:red;
+    border-width:3px;
+    border-style:dashed
+}
+
+h2 {
+    width:10%;
+    color:green;
+    font-family:arial;
+    text-align:center;
+    background-color:pink;
+    border-color:red;
+    border-width:3px;
+    border-style:dashed
+}
+
+h1 {
+    color:cyan;
+    font-family:Bradley Hand ITC;
+    text-align:center;
+    border-color:red;
+    border-width:3px;
+    border-style:dashed
+}
+
+a {
+    color:rgb(0, 102, 255)
+}
+	
+span {
+    font-weight:bold;
+    color:crimson
+}
+
+div {
+    position:top;
+}
+
+.attention {color:rgb(234, 0, 255)}
+
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #ff0000;
+    padding: 10px;
+  }
